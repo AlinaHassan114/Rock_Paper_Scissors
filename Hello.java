@@ -4,10 +4,12 @@ public class Hello {
   int num2 = 90;
   System.out.println(num1);
   System.out.println(num2);
-  System.out.println("Hello World!!!!");
+  int sum = num1 + num2;
+  System.out.println("the sum is :" + sum);
   
   
  } 
 }
 // this is the first test
 // this is the second test
+//added sum
