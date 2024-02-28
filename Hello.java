@@ -7,7 +7,7 @@ public class Hello {
   int sum = num1 + num2;
   System.out.println("the sum is :" + sum);
   
-  
+  //comment
  } 
 }
 // this is the first test
